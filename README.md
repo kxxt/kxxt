@@ -4,7 +4,7 @@ A freshman student of Shandong University (Weihai).
 
 I :heart: C# and python.
 
-Learning Wolfram Language , frontend and more.
+Learning rust, matlab and more.
 
 ## Contact Me
 
