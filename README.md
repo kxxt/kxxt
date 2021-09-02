@@ -2,9 +2,9 @@
 
 A freshman student of Shandong University (Weihai).
 
-I :heart: C# and python.
+I :heart: C#, F# and python.
 
-Learning rust, matlab and more.
+Learning frontend.
 
 ## Contact Me
 
