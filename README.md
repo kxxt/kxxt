@@ -1,6 +1,6 @@
 # About Me
 
-A freshman student of Shandong University (Weihai).
+A sophomore from Shandong University (Weihai).
 
 I :heart: C#, F# and python.
 
