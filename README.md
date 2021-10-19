@@ -24,8 +24,8 @@ A sophomore from Shandong University (Weihai), majoring in data science and arti
 
 ### Learning :school:
 
-|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />|<img alt="Bulma" title="Bulma" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bulma/bulma.png">|<img alt="Node" title="Node" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">
-|--|--|--|--|
+|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />|<img alt="Bulma" title="Bulma" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bulma/bulma.png">|<img alt="Node" title="Node" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|<img alt="Rust" title="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">
+|--|--|--|--|--|
 
 
 ## Contact Me :email:
