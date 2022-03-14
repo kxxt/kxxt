@@ -15,7 +15,7 @@ A sophomore from Shandong University (Weihai), majoring in data science and arti
 |--|--|--|--|--|
 
 
-<img alt="langs" title="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxxt&layout=compact&theme=radical&langs_count=16&exclude_repo=car_classification_tracking_and_more,translated-content,kxxt.github.io">
+<img alt="langs" title="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxxt&layout=compact&theme=radical&langs_count=16&exclude_repo=car_classification_tracking_and_more,translated-content,kxxt.github.io,my-solutions-to-exercises-in-programming-abstractions-in-cpp">
 
 ### Library and Frameworks :book:
 
