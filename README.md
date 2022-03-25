@@ -31,3 +31,4 @@ A sophomore from Shandong University (Weihai), majoring in data science and arti
 ## Contact Me :email:
 
 - Email: rsworktech@outlook.com
+- PGP fingerprint: 17AA DD67 26DD C58B 8EE5  8817 5767 0CCF A42C CF0A
