@@ -11,9 +11,15 @@ A sophomore from Shandong University (Weihai), majoring in data science and arti
 
 ### Programming Languages
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">|<img title="F#" alt="F#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fsharp/fsharp.png">|<img title="R" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png">|
-|--|--|--|--|--|
+#### Fluent
 
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">|
+|--|--|--|
+
+#### Intermediate
+
+<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="R" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png">|<img title="F#" alt="F#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fsharp/fsharp.png">|<img alt="Rust" title="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">|
+|--|--|--|--|
 
 <img alt="langs" title="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxxt&layout=compact&theme=radical&langs_count=16&exclude_repo=car_classification_tracking_and_more,translated-content,kxxt.github.io,my-solutions-to-exercises-in-programming-abstractions-in-cpp&hide=ejs,stylus">
 
