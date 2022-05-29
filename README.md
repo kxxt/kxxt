@@ -20,8 +20,8 @@ A sophomore from Shandong University (Weihai), majoring in data science and arti
 
 #### Intermediate
 
-<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="R" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png">|<img title="F#" alt="F#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fsharp/fsharp.png">|<img alt="Rust" title="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">|
-|--|--|--|--|
+<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="R" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png">|<img title="F#" alt="F#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fsharp/fsharp.png">|<img alt="Rust" title="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|
+|--|--|--|--|--|
 
 #### Beginner
 
