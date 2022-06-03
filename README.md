@@ -1,4 +1,4 @@
-# Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am kxxt!
+# Hi there <img  src="https://github.com/kxxt/kxxt/raw/main/images/final.gif" width="40px" height="40px">, I am kxxt!
 
 
 A sophomore from Shandong University (Weihai), majoring in data science and artificial intelligence
