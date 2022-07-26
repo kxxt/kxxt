@@ -30,12 +30,12 @@ A sophomore from Shandong University (Weihai), majoring in data science and arti
 
 ### Library and Frameworks :book:
 
-<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />|<img alt="Bulma" title="Bulma" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bulma/bulma.png">|<img alt="FastAPI" title="FastAPI" height="40px" src="images/fast-api.png">|<img alt="Material Design In XAML Toolkit" title="Material Design In XAML Toolkit" width="40px" src="images/MD4XAML64.png">
-|--|--|--|--|
+<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />|<img alt="Bulma" title="Bulma" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bulma/bulma.png">|<img alt="FastAPI" title="FastAPI" height="40px" src="images/fast-api.png">|<img alt="Material Design In XAML Toolkit" title="Material Design In XAML Toolkit" width="40px" src="images/MD4XAML64.png">|<img alt="Gatsby" title="Gatsby" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" width="40px">|
+|--|--|--|--|--|
 
 ### Learning :school:
 
-|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />|<img alt="Bulma" title="Bulma" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bulma/bulma.png">|<img alt="Node" title="Node" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|<img alt="Rust" title="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">
+|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />|<img alt="Bulma" title="Bulma" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bulma/bulma.png">|<img alt="Node" title="Node" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|<img alt="Rust" title="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">|
 |--|--|--|--|--|
 
 
