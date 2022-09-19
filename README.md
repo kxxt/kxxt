@@ -1,7 +1,7 @@
 # Hi there <img  src="https://github.com/kxxt/kxxt/raw/main/images/final.gif" width="40px" height="40px">, I am kxxt!
 
 
-A sophomore from Shandong University (Weihai), majoring in data science and artificial intelligence
+A junior student from Shandong University (Weihai), majoring in data science and artificial intelligence
 
 ## Stats
 
@@ -11,22 +11,22 @@ A sophomore from Shandong University (Weihai), majoring in data science and arti
 
 ### Programming Languages
 
-<img alt="langs" title="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxxt&layout=compact&theme=radical&langs_count=16&exclude_repo=car_classification_tracking_and_more,translated-content,kxxt.github.io,my-solutions-to-exercises-in-programming-abstractions-in-cpp&hide=ejs,stylus">
+<img alt="langs" title="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxxt&layout=compact&theme=radical&langs_count=16&exclude_repo=car_classification_tracking_and_more,translated-content,kxxt.github.io,my-solutions-to-exercises-in-programming-abstractions-in-cpp&hide=ejs,stylus,hack,scilab">
 
-#### Fluent
+#### Languages that I am fluent in
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">|
 |--|--|--|
 
-#### Intermediate
+#### Languages that I can comfortably read/write most of the time, but I only learned part of their features
 
-<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="R" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png">|<img title="F#" alt="F#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fsharp/fsharp.png">|<img alt="Rust" title="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|
-|--|--|--|--|--|
+<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="R" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png">|<img title="F#" alt="F#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fsharp/fsharp.png">|<img alt="Rust" title="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|<img alt="matlab" title="matlab" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" width="40px">|
+|--|--|--|--|--|--|
 
 #### Beginner
 
-<img alt="matlab" title="matlab" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" width="40px">|<img alt="matlab" title="matlab" src="https://raw.githubusercontent.com/github/explore/master/topics/haskell/haskell.png" width="40px">|
-|--|--|
+|<img alt="haskell" title="haskell" src="https://raw.githubusercontent.com/github/explore/master/topics/haskell/haskell.png" width="40px">|
+|--|
 
 ### Library and Frameworks :book:
 
