@@ -1,7 +1,7 @@
 # Hi there <img  src="https://github.com/kxxt/kxxt/raw/main/images/final.gif" width="40px" height="40px">, I am kxxt!
 
 
-A junior student from Shandong University (Weihai), majoring in data science and artificial intelligence
+A senior student from Shandong University (Weihai), majoring in data science and artificial intelligence
 
 ## Stats
 
