@@ -13,20 +13,21 @@ A senior student from Shandong University (Weihai), majoring in data science and
 
 <img alt="langs" title="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxxt&layout=compact&theme=radical&langs_count=16&exclude_repo=car_classification_tracking_and_more,translated-content,kxxt.github.io,my-solutions-to-exercises-in-programming-abstractions-in-cpp&hide=ejs,stylus,hack,scilab">
 
-#### Languages that I am fluent in
+#### Languages that I frequently use now
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Rust" title="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">|
 |--|--|--|
 
-#### Languages that I can comfortably read/write most of the time, but I only learned part of their features
+#### Languages that I use
 
-<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="R" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png">|<img title="F#" alt="F#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fsharp/fsharp.png">|<img alt="Rust" title="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|<img alt="matlab" title="matlab" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" width="40px">|
-|--|--|--|--|--|--|
+<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|
+|--|--|--|
 
-#### Beginner
+#### Languages that I used in the past
 
-|<img alt="haskell" title="haskell" src="https://raw.githubusercontent.com/github/explore/master/topics/haskell/haskell.png" width="40px">|
-|--|
+|<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">|<img alt="matlab" title="matlab" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" width="40px">|<img title="R" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png">|<img title="F#" alt="F#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fsharp/fsharp.png">|
+|--|--|--|--|
+
 
 ### Library and Frameworks :book:
 
