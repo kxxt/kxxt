@@ -20,8 +20,8 @@ A senior student from Shandong University (Weihai), majoring in data science and
 
 #### Languages that I use
 
-<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|
-|--|--|--|
+<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|<img alt="Bash" title="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png"/>|
+|--|--|--|--|
 
 #### Languages that I used in the past
 
