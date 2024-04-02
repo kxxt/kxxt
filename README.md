@@ -3,6 +3,8 @@
 
 A senior student from Shandong University (Weihai), majoring in data science and artificial intelligence
 
+I love working on FOSS projects and contributing to them.
+
 ## Stats
 
 <img alt="Stats" title="Stats" src="https://github-readme-stats.vercel.app/api?username=kxxt&count_private=true&show_icons=true&theme=radical">
