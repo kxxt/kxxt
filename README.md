@@ -1,7 +1,6 @@
 # Hi there <img  src="https://github.com/kxxt/kxxt/raw/main/images/final.gif" width="40px" height="40px">, I am kxxt!
 
-
-A senior student from Shandong University (Weihai), majoring in data science and artificial intelligence
+I am pursuing my master degree at School of Cyber Science and Technologies, USTC.
 
 I love working on FOSS projects and contributing to them.
 
