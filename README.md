@@ -16,8 +16,8 @@ I love working on FOSS projects and contributing to them.
 
 #### Languages that I frequently use now
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Rust" title="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">|
-|--|--|--|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Rust" title="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">|<img alt="Typst" title="Typst" width="40px" src="https://avatars.githubusercontent.com/u/67595261?s=48&v=4">|
+|--|--|--|--|
 
 #### Languages that I use
 
