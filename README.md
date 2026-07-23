@@ -6,13 +6,13 @@ I love working on FOSS projects and contributing to them.
 
 ## Stats
 
-<img alt="Stats" title="Stats" src="https://github-readme-stats.vercel.app/api?username=kxxt&count_private=true&show_icons=true&theme=radical">
+<img alt="Stats" title="Stats" src="https://github-stats-extended.vercel.app/api?username=kxxt&count_private=true&show_icons=true&theme=radical">
 
 ## Skill Set :muscle:
 
 ### Programming Languages
 
-<img alt="langs" title="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxxt&layout=compact&theme=radical&langs_count=16&exclude_repo=car_classification_tracking_and_more,translated-content,kxxt.github.io,my-solutions-to-exercises-in-programming-abstractions-in-cpp&hide=ejs,stylus,hack,scilab">
+<img alt="langs" title="langs" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kxxt&layout=compact&theme=radical&langs_count=16&exclude_repo=car_classification_tracking_and_more,translated-content,kxxt.github.io,my-solutions-to-exercises-in-programming-abstractions-in-cpp&hide=ejs,stylus,hack,scilab">
 
 #### Languages that I frequently use now
 
